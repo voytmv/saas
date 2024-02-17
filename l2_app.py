@@ -8,7 +8,7 @@ import requests
 from flask import Flask, jsonify, request
 
 # create your API token, and set it up in Postman collection as part of the Body section
-API_TOKEN = "0c3db47b54msh87bc3a7395ab524p1136eejsn1b1a0ae28ba3"
+API_TOKEN = ""
 # you can get API keys for free here - https://api-docs.pgamerx.com/
 
 
